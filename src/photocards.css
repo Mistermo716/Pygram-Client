@@ -1,0 +1,16 @@
+.card-container {
+  position: relative;
+  display: block;
+  border: 1px solid rgba(0, 0, 0, 0.233);
+  height: 100%;
+  min-height: 500px;
+  width: 80%;
+  max-width: 512px;
+  margin: auto;
+  top: 30px;
+  margin-bottom: 20px;
+}
+img {
+  height: auto;
+  width: 100%;
+}
